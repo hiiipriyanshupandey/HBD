@@ -237,37 +237,37 @@ Happy Birthday, Monika. 🎂❤️`,
 
             {
                 type: "image",
-                src: "./assets/Monika/01.jpeg",
+                src: "./assets/Monika/1.jpeg",
                 caption: "A memory from the good times."
             },
 
             {
                 type: "image",
-                src: "./assets/Monika/02.jpeg",
+                src: "./assets/Monika/2.jpeg",
                 caption: "One frame, one story."
             },
 
             {
                 type: "image",
-                src: "./assets/Monika/03.jpeg",
+                src: "./assets/Monika/3.jpeg",
                 caption: "The kind of moment you remember later."
             },
 
             {
                 type: "video",
-                src: "./assets/Monika/04.mp4",
+                src: "./assets/Monika/4.mp4",
                 caption: "Just another memory worth saving."
             },
 
             {
                 type: "video",
-                src: "./assets/Monika/05.mp4",
+                src: "./assets/Monika/5.mp4",
                 caption: "Another little chapter."
             },
 
             {
                 type: "video",
-                src: "./assets/Monika/06.mp4",
+                src: "./assets/Monika/6.mp4",
                 caption: "Some moments don't need a reason."
             }
 
