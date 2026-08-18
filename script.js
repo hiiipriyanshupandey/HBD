@@ -49,133 +49,133 @@ Happy Birthday, Nikita. 🎂❤️`,
 
             {
                 type: "image",
-                src: "./assets/Nikita/01.jpeg",
+                src: "./01.jpeg",
                 caption: "A memory worth keeping."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/02.jpeg",
+                src: "./02.jpeg",
                 caption: "One of those good moments."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/03.jpeg",
+                src: "./03.jpeg",
                 caption: "A moment worth remembering."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/04.jpeg",
+                src: "./04.jpeg",
                 caption: "Some memories just stay."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/05.jpeg",
+                src: "./05.jpeg",
                 caption: "A little moment, a lot of memories."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/06.jpeg",
+                src: "./06.jpeg",
                 caption: "Another one for the memories."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/07.jpeg",
+                src: "./07.jpeg",
                 caption: "Just one of those days."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/08.jpeg",
+                src: "./08.jpeg",
                 caption: "A memory worth keeping."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/09.jpeg",
+                src: "./09.jpeg",
                 caption: "Good times, good memories."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/10.jpeg",
+                src: "./10.jpeg",
                 caption: "Another chapter to remember."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/11.jpeg",
+                src: "./11.jpeg",
                 caption: "And one more memory."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/12.jpeg",
+                src: "./12.jpeg",
                 caption: "Another beautiful memory."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/13.jpeg",
+                src: "./13.jpeg",
                 caption: "A moment to remember."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/14.jpeg",
+                src: "./14.jpeg",
                 caption: "One more for the collection."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/15.jpeg",
+                src: "./15.jpeg",
                 caption: "Some moments are unforgettable."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/16.jpeg",
+                src: "./16.jpeg",
                 caption: "A little piece of the memories."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/17.jpeg",
+                src: "./17.jpeg",
                 caption: "Another moment worth saving."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/18.jpeg",
+                src: "./18.jpeg",
                 caption: "Good memories never get old."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/19.jpeg",
+                src: "./19.jpeg",
                 caption: "One last photo memory."
             },
 
             {
                 type: "image",
-                src: "./assets/Nikita/20.jpeg",
+                src: "./20.jpeg",
                 caption: "Twenty memories and counting."
             },
 
             {
                 type: "video",
-                src: "./assets/Nikita/21.mp4",
+                src: "./21.mp4",
                 caption: "And one moving memory."
             },
 
             {
                 type: "video",
-                src: "./assets/Nikita/22.mp4",
+                src: "./22.mp4",
                 caption: "Another moving memory."
             }
 
@@ -188,7 +188,7 @@ And somehow, you became one of those people. ❤️`,
 
         /* IMPORTANT:
            THIS VIDEO IS NOT PART OF MEMORIES */
-        video: "./assets/final.mp4",
+        video: "./final.mp4",
 
         signature: "Mansi"
     },
@@ -237,37 +237,37 @@ Happy Birthday, Monika. 🎂❤️`,
 
             {
                 type: "image",
-                src: "./assets/Monika/1.jpeg",
+                src: "./1.jpeg",
                 caption: "A memory from the good times."
             },
 
             {
                 type: "image",
-                src: "./assets/Monika/2.jpeg",
+                src: "./2.jpeg",
                 caption: "One frame, one story."
             },
 
             {
                 type: "image",
-                src: "./assets/Monika/3.jpeg",
+                src: "./3.jpeg",
                 caption: "The kind of moment you remember later."
             },
 
             {
                 type: "video",
-                src: "./assets/Monika/4.mp4",
+                src: "./4.mp4",
                 caption: "Just another memory worth saving."
             },
 
             {
                 type: "video",
-                src: "./assets/Monika/5.mp4",
+                src: "./5.mp4",
                 caption: "Another little chapter."
             },
 
             {
                 type: "video",
-                src: "./assets/Monika/6.mp4",
+                src: "./6.mp4",
                 caption: "Some moments don't need a reason."
             }
 
@@ -280,7 +280,7 @@ I'm glad you are one of them. ❤️`,
 
         /* IMPORTANT:
            THIS VIDEO IS NOT PART OF MEMORIES */
-        video: "./assets/final.mp4",
+        video: "./final.mp4",
 
         signature: "Mansi"
     }
