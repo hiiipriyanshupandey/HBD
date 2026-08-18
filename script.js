@@ -188,7 +188,7 @@ And somehow, you became one of those people. ❤️`,
 
         /* IMPORTANT:
            THIS VIDEO IS NOT PART OF MEMORIES */
-        video: "./final.mp4",
+        video: "./video.mp4",
 
         signature: "Mansi"
     },
@@ -280,7 +280,7 @@ I'm glad you are one of them. ❤️`,
 
         /* IMPORTANT:
            THIS VIDEO IS NOT PART OF MEMORIES */
-        video: "./final.mp4",
+        video: "./video.mp4",
 
         signature: "Mansi"
     }
